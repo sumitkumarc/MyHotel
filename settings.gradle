@@ -1,0 +1,3 @@
+include ':PhoneVerification'
+include ':app'
+rootProject.name = "MyRestaurantApp"

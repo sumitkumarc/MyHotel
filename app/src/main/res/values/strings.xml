@@ -1,0 +1,218 @@
+<resources>
+    <string name="app_name">OnTime</string>
+    <string name="title_activity_home">Home</string>
+    <string name="mobile_verification_fails">Mobile Number verification fails.</string>
+
+    <!--    // Change_Password-->
+
+    <string name="change_password">Change \nPassword</string>
+    <string name="ed_confirm_password_hint">Confirm password</string>
+    <string name="ed_new_password_hint">New password</string>
+    <string name="bt_submit">Submit</string>
+
+    <!--    Mycart-->
+    <string name="mycart_title">My Cart</string>
+    <string name="mycart_title_item">My Cart Item</string>
+    <string name="mycart_next">Next</string>
+    <string name="mycart_no_data_found">No data found.</string>
+
+    <!--    ContectUs-->
+    <string name="conect_send">Send</string>
+    <string name="conect_write_message_here">Write message here</string>
+    <string name="conect_your_phone_no">Your phone no</string>
+
+    <!--    Dashboard-->
+    <string name="restaurants">Restaurants</string>
+    <string name="supermarkets">Supermarkets</string>
+    <!--    Forgot Password-->
+    <string name="forgot_password">Forgot Password</string>
+    <string name="code">Code</string>
+    <string name="contact_number">Contact Number</string>
+
+    <!--    Login page-->
+    <string name="login_page">Login To Your \nAccount</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="Notifications">Notifications</string>
+    <string name="Payment">Payment</string>
+    <string name="Balance">Balance</string>
+    <string name="Payment_Methods">Payment Methods</string>
+    <string name="Add_new_card">Add new card</string>
+    <string name="Edit">Edit</string>
+    <string name="Sign_out">Sign out</string>
+    <string name="Orders">Orders</string>
+    <string name="Cancelled">Cancelled</string>
+    <string name="Total_Spends">Total Spends</string>
+
+    <!--    registration-->
+    <string name="Create_To_Your_Account">Create To Your \nAccount</string>
+    <string name="Create_Account">Create Account</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="email_id_hint">Email</string>
+    <string name="optional_hint">(Optional)</string>
+    <string name="password_hint">Password</string>
+    <string name="Register">Register</string>
+    <string name="Register_msg">By Clicking Register Button Your Agreed to Our Terms And Condition</string>
+
+    <!--    List-->
+    <string name="Search">Search</string>
+
+    <!--    navigation maneu -->
+    <string name="Home">Home</string>
+    <string name="Cart">Cart</string>
+    <string name="My_orders">My orders</string>
+    <string name="Change_password">Change password</string>
+    <string name="About_On_time">About On time</string>
+    <string name="Contact_US">Contact US</string>
+    <string name="Languages">Languages</string>
+    <string name="welcome_back">Welcome Back</string>
+
+
+    <string name="Add_to_Cart">Add to Cart</string>
+    <string name="Enter_OTP">Enter OTP</string>
+    <string name="Verify">Verify</string>
+    <string name="Resend">Resend</string>
+
+    <string name="add_amount">Add amount</string>
+    <string name="amount">Amount</string>
+    <string name="Add_New_Card">Add New Card</string>
+    <string name="Card_number">Card number</string>
+    <string name="Expiry">Expiry</string>
+    <string name="Name_on_card">Name on card</string>
+    <string name="Add_now">Add now</string>
+
+
+    <string name="Added_on_Cart">Added on Cart\nSuccessfully</string>
+    <string name="Go_cart">Go cart</string>
+
+    <string name="Profile_update">Profile update</string>
+    <string name="Address">Address</string>
+    <string name="Update_profile">Update profile</string>
+    <string name="Do_you_want">Do you want</string>
+    <string name="Take_Away">Take Away</string>
+    <string name="Or">Or</string>
+    <string name="Dine_in">Dine in</string>
+
+    <string name="Cancel">Cancel</string>
+    <string name="Reorder">Reorder</string>
+    <string name="Please_wait">Please wait...</string>
+
+    <!--    Validation-->
+    <string name="v_enter_password">Please enter password.</string>
+    <string name="v_co_enter_password">Please enter conform password.</string>
+    <string name="v_enter_message">Please enter message.</string>
+    <string name="v_enter_mobile_no">Please enter valid mobile no.</string>
+    <string name="v_enter_card_no">Please enter credit card no.</string>
+    <string name="v_enter_card_date">Please enter credit expiry date.</string>
+    <string name="v_enter_card_hoder">Please enter credit holder name.</string>
+    <string name="v_enter_full_name">Please enter full name.</string>
+    <string name="v_select_profile_image">Please select profile image.</string>
+    <string name="v_check_internet_connnection">Check your internet connection and try again.</string>
+    <string name="v_valid_phone_no">Please enter valid phone number.</string>
+    <string name="v_valid_email_id">Please enter valid email id.</string>
+    <string name="Finished">Finished</string>
+    <string name="Invalid">Enter invalid phone no</string>
+
+    <string name="new_order">New order</string>
+    <string name="Processing">Processing</string>
+    <string name="Completed">Completed</string>
+
+
+    <string name="Undo">Undo</string>
+    <string name="Delivered">Deliver</string>
+    <string name="Hours">Hours</string>
+    <string name="Minute">Minute</string>
+    <string name="Seconds">Seconds</string>
+    <string name="Set_Delivery_Time">Delivery Time</string>
+
+    <string name="P_type">P.type</string>
+    <string name="D_type">D.type</string>
+    <string name="Qty">Qty</string>
+
+    <string name="OrderNumber">OrderNumber</string>
+    <string name="Payment_Type">Payment Type</string>
+    <string name="Date">Date</string>
+    <string name="Delivery_Type">Delivery Type</string>
+    <string name="Total">Total</string>
+    <string name="Save">Save</string>
+
+    <string name="please_enter_rating">Please Enter Rating</string>
+    <string name="please_enter_review">Please Enter Review</string>
+
+
+    <!--    //new -->
+
+    <string name="request_sent_rest">Request sent to \nthe restaurant</string>
+    <string name="request_sent_supermart">Request sent to \nthe supermart</string>
+    <string name="go_cart">Go to cart</string>
+    <string name="order_no">Order No : </string>
+    <string name="order_time">Order time : </string>
+    <string name="delivery_time">Deliver time : </string>
+    <string name="status">Status</string>
+    <string name="status_new">Status : New</string>
+    <string name="status_processing">Status : Processing</string>
+    <string name="status_cancelledByuser">Status : Cancelled By User</string>
+    <string name="status_cancelled">Status : Cancelled</string>
+    <string name="status_completed">Status : Completed</string>
+    <string name="status_unknown">Status : Unknown</string>
+    <string name="wallet">Wallet</string>
+    <string name="Card">Card</string>
+    <string name="Apple_Pay">Apple Pay</string>
+    <string name="Cod">Cod</string>
+    <string name="Unknown">Unknown</string>
+    <string name="Paid">Paid</string>
+    <string name="Pending">Pending</string>
+    <string name="Review">Review</string>
+    <string name="Share_your_experience">Share your experience</string>
+    <string name="cancel_time_2minis">Cancel time : within 2 minutes</string>
+    <string name="time_out_for_order_cancel">Time out for order cancel</string>
+    <string name="out_not_accepted">Order Not accepted</string>
+    <string name="status_pending">Status : Pending</string>
+    <string name="rate_dialogue_msg">Wish you good health \n and happiness \n\n Rate </string>
+    <string name="Rate_App">Rate App</string>
+    <string name="additional_item">Additional item</string>
+    <string name="total_tax">Total Tax</string>
+    <string name="service_fees">Service Fee</string>
+    <string name="service_fees_tax">Service Fee Tax</string>
+    <string name="Discount">Discount : </string>
+    <string name="Invoice_details">Invoice details</string>
+    <string name="Apply_Code">Apply Code</string>
+    <string name="Code_here">Code here</string>
+    <string name="pay_now">Pay now</string>
+    <string name="rest_accept_order">The Restaurant\nAccepted Your\nOrder</string>
+    <string name="notes_order_cancel">Note: You Cannot Cancel Your Order After 2 Minutes!</string>
+    <string name="notes_your_request">Note: please write here your request changes on exiting dish</string>
+    <string name="Removal">Removal</string>
+    <string name="Addition">Addition</string>
+    <string name="Sizes">Sizes</string>
+    <string name="Calories">Calories</string>
+    <string name="update_Cart">Update Cart</string>
+    <string name="size_is_required">Size is required</string>
+    <string name="no_item_cart">No data from item cart.</string>
+    <string name="Turn_on_location">Turn on location</string>
+    <string name="ok">Ok</string>
+    <string name="Near_Me">Near Me</string>
+    <string name="Top_Rated">Top Rated</string>
+    <string name="Are_you_sure_you_want_to_Exit">Are you sure you want to Exit ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="TotalPrice">Total Price</string>
+    <string name="Verification_not_received">Verification not received</string>
+    <string name="Resend_code">Resend code</string>
+
+    <string name="Verification_failed">Verification failed</string>
+    <string name="smile_dailog">Don\'t worry we will contact \n the resturant</string>
+    <string name="order_enjoy">Ok! go receive Your \n order and Enjoy !</string>
+    <string name="Apply">Apply</string>
+    <string name="Request">Request</string>
+    <string name="Credit_Debit_card">Credit/Debit card</string>
+    <string name="payment_pay">Payment is paid..</string>
+
+
+    <string name="Confirm">Confirm</string>
+    <string name="Click_heare">Click heare</string>
+    <string name="lowest">Your wallet to lowest..</string>
+    <string name="Payment_failed">Unable to make payment right now, Please try after some time.</string>
+
+
+</resources>

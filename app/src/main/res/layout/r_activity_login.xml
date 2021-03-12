@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/realitve"
+    tools:context=".restaurant.ui.Activity.LoginPage">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:src="@drawable/r_lbg"
+        android:scaleType="centerCrop"
+        android:layout_height="match_parent"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:src="@drawable/r_back_button" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            style="@style/TextAppearance.MaterialComponents.Headline6"
+            android:layout_marginTop="25sp"
+            android:padding="10dp"
+            android:text="Login To Your \nAccount"
+            android:textAlignment="textStart"
+            android:textColor="#FF0015"
+            android:textSize="22sp"
+            android:textStyle="normal" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/r_btn1_design"
+            android:cursorVisible="true"
+            android:hint="Contact Number"
+            style="@style/TextAppearance.MaterialComponents.Headline5"
+            android:inputType="phone"
+            android:padding="15dp"
+            android:textAlignment="textStart"
+            android:textColor="#838383"
+            android:textSize="16sp"
+            android:textStyle="normal" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            style="@style/TextAppearance.MaterialComponents.Headline5"
+            android:background="@drawable/r_btn1_design"
+            android:cursorVisible="true"
+            android:hint="Password"
+            android:drawableRight="@drawable/r_eyes_off"
+            android:drawablePadding="10dp"
+            android:inputType="textPassword"
+            android:padding="15dp"
+            android:textAlignment="textStart"
+            android:textColor="#838383"
+            android:textSize="16sp"
+            android:textStyle="normal" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/login_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:background="@drawable/r_btn_design"
+            android:padding="5dp"
+            android:layout_marginTop="50dp"
+            android:text="Login"
+            android:textAllCaps="false"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:textStyle="normal" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:padding="10dp"
+            style="@style/TextAppearance.MaterialComponents.Headline6"
+            android:text="Forgot Password"
+            android:textAlignment="center"
+            android:textColor="#FF0015"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</FrameLayout>

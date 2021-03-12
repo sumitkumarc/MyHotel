@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "550118048946",
+    "firebase_url": "https://myrestaurant-1f2ce.firebaseio.com",
+    "project_id": "myrestaurant-1f2ce",
+    "storage_bucket": "myrestaurant-1f2ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550118048946:android:122804fa9978c76fdfb5ab",
+        "android_client_info": {
+          "package_name": "ontime.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550118048946-u07jjtup1p32j0obir1hi4eb23ceem99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ontime.app",
+            "certificate_hash": "2b5c03e9e2aa53797c6b71f83cfe91aa14499d43"
+          }
+        },
+        {
+          "client_id": "550118048946-lis49qa6rp8qjevht6i4u2s7i788bs03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNZw2u3tMOaL9eytiJ3k732xQPs7AZ-T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550118048946-lis49qa6rp8qjevht6i4u2s7i788bs03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550118048946-fubdv4390idbnb5ssbr2rqpgm1c99v47.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ontime.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

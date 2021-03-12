@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">اون تايم</string>
+    <string name="title_activity_home">Home</string>
+    <string name="mobile_verification_fails">فشل التحقق من رقم الهاتف المحمول.</string>
+
+    <!--    // Change_Password-->
+    <string name="change_password">\كلمه السرn\يتغيرون</string>
+    <string name="ed_confirm_password_hint">تأكيد كلمة المرور</string>
+    <string name="ed_new_password_hint">كلمة سر جديدة</string>
+    <string name="bt_submit">إرسال</string>
+    <!--    Mycart-->
+    <string name="mycart_title">عربة التسوق الخاصة بي</string>
+    <string name="mycart_title_item">عنصر عربة التسوق الخاصة بي</string>
+    <string name="mycart_next">التالى</string>
+    <string name="mycart_no_data_found">لاتوجد بيانات.</string>
+    <!--    ContectUs-->
+    <string name="conect_send">إرسال</string>
+    <string name="conect_write_message_here">اكتب الرسالة هنا</string>
+    <string name="conect_your_phone_no">رقم هاتفك</string>
+
+    <!--    Dashboard-->
+    <string name="restaurants">مطاعم</string>
+    <string name="supermarkets">محلات السوبر ماركت</string>
+
+    <!--    Forgot Password-->
+    <string name="forgot_password">هل نسيت كلمة المرور</string>
+    <string name="code">الشفرة</string>
+    <string name="contact_number">رقم الاتصال</string>
+
+    <!--    Login Page-->
+    <string name="login_page">تسجيل الدخول إلى الخاص بك\nالحساب</string>
+    <string name="password">كلمه السر</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="Create_Account">إنشاء حساب</string>
+    <string name="Notifications">إشعارات</string>
+    <string name="Payment">دفع</string>
+    <string name="Balance">توازن</string>
+    <string name="Payment_Methods">طرق الدفع</string>
+    <string name="Add_new_card">أضف بطاقة جديدة</string>
+    <string name="Edit">تعديل</string>
+    <string name="Sign_out">تسجيل خروج</string>
+    <string name="Orders">أوامر</string>
+    <string name="Cancelled">ألغيت</string>
+    <string name="Total_Spends">إجمالي الإنفاق</string>
+
+    <!--    registration-->
+    <string name="Create_To_Your_Account">إنشاء لحساب \ n الخاص بك</string>
+    <string name="full_name_hint">الاسم الكامل</string>
+    <string name="email_id_hint">البريد الإلكتروني</string>
+    <string name="optional_hint">(اختياري)</string>
+    <string name="password_hint">كلمه السر</string>
+    <string name="Register">تسجيل</string>
+    <string name="Register_msg">عن طريق النقر فوق زر تسجيل ، وافقت على الشروط والأحكام الخاصة بنا</string>
+
+    <string name="Search">بحث</string>
+    <!--    navigation maneu -->
+    <string name="Home">الصفحة الرئيسية</string>
+    <string name="Cart">عربة التسوق</string>
+    <string name="My_orders">طلباتي</string>
+    <string name="Change_password">غير كلمة السر</string>
+    <string name="About_On_time">حول في الوقت المحدد</string>
+    <string name="Contact_US">اتصل بنا</string>
+    <string name="Languages">اللغات</string>
+
+    <string name="Add_to_Cart">أضف إلى السلة</string>
+
+    <string name="Enter_OTP">أدخل OTP</string>
+    <string name="Verify">تحقق</string>
+    <string name="Resend">إعادة إرسال</string>
+    <string name="add_amount">أضف المبلغ</string>
+    <string name="amount">كمية</string>
+    <string name="Add_New_Card">إضافة بطاقة جديدة</string>
+    <string name="Card_number">رقم البطاقة</string>
+    <string name="Expiry">انقضاء</string>
+    <string name="Name_on_card">الاسم على البطاقة</string>
+    <string name="Add_now">إضافة الآن</string>
+
+    <string name="Added_on_Cart">تمت الإضافة في عربة التسوق \ n بنجاح</string>
+    <string name="Go_cart">اذهب عربة</string>
+
+    <string name="Profile_update">تحديث الملف الشخصي</string>
+    <string name="Address">عنوان</string>
+    <string name="Update_profile">تحديث الملف</string>
+
+    <string name="Do_you_want">هل تريد</string>
+    <string name="Take_Away">يبعد</string>
+    <string name="Or">أو</string>
+    <string name="Dine_in">تناول الطعام في</string>
+
+    <string name="Cancel">إلغاء</string>
+    <string name="Reorder">إعادة ترتيب</string>
+    <string name="welcome_back">مرحبا بعودتك</string>
+    <string name="Please_wait">ارجوك انتظر...</string>
+
+    <!--    Validation-->
+    <string name="v_enter_password">الرجاء إدخال كلمة المرور.</string>
+    <string name="v_co_enter_password">الرجاء إدخال كلمة المرور مطابقة.</string>
+    <string name="v_enter_message">الرجاء إدخال الرسالة.</string>
+    <string name="v_enter_mobile_no">الرجاء إدخال رقم الجوال.</string>
+    <string name="v_check_internet_connnection">تحقق من اتصالك بالإنترنت وحاول مرة أخرى</string>
+
+    <string name="v_enter_card_no">الرجاء إدخال رقم بطاقة الائتمان.</string>
+    <string name="v_enter_card_date">الرجاء إدخال تاريخ انتهاء صلاحية الائتمان.</string>
+    <string name="v_enter_card_hoder">الرجاء إدخال اسم صاحب الائتمان.</string>
+    <string name="v_enter_full_name">الرجاء إدخال الاسم الكامل.</string>
+    <string name="v_select_profile_image">الرجاء تحديد صورة الملف الشخصي.</string>
+    <string name="v_valid_phone_no">الرجاء إدخال رقم هاتف صحيح.</string>
+    <string name="v_valid_email_id">الرجاء إدخال البريد الإلكتروني الصحيح.</string>
+
+    <string name="Finished">تم الانتهاء من</string>
+
+    <string name="new_order">طلب جديد</string>
+    <string name="Processing">معالجة</string>
+    <string name="Completed">منجز</string>
+
+    <string name="Undo">الغاء التحميل</string>
+    <string name="Delivered">تم التوصيل</string>
+    <string name="Hours">ساعات</string>
+    <string name="Minute">دقيقة</string>
+    <string name="Seconds">ثواني</string>
+    <string name="Set_Delivery_Time">حدد موعد التسليم</string>
+
+    <string name="P_type">نوع P</string>
+    <string name="D_type">نوع D</string>
+    <string name="Qty">الكمية</string>
+
+    <string name="OrderNumber">رقم الأمر</string>
+    <string name="Payment_Type">نوع الدفع</string>
+    <string name="Date">تاريخ</string>
+    <string name="Delivery_Type">نوع التوصيل</string>
+    <string name="Total">مجموع</string>
+
+    <string name="Save">حفظ</string>
+
+    <string name="please_enter_rating">الرجاء إدخال التصنيف</string>
+    <string name="please_enter_review">الرجاء إدخال مراجعة</string>
+
+    <string name="request_sent_rest">تم إرسال الطلب إلى\nالمطعم</string>
+    <string name="request_sent_supermart">تم إرسال الطلب إلى\nالسوبرماركت</string>
+    <string name="go_cart">الذهاب إلى سلة التسوق</string>
+    <string name="order_no">رقم الطلب:</string>
+    <string name="order_time">وقت الطلب:</string>
+    <string name="delivery_time">وقت التوصيل: </string>
+    <string name="status_new">الحالة: جديد</string>
+    <string name="status_processing">الحالة: قيد المراجعة</string>
+    <string name="status_cancelledByuser">الحالة: ألغي من قبل المستخدم</string>
+    <string name="status_cancelled">الحالة: ملغي</string>
+    <string name="status_completed">الحالة: مكتمل</string>
+    <string name="status_unknown">الحالة: غير معروف</string>
+    <string name="wallet">المحفظة</string>
+    <string name="Card">بطاقة</string>
+    <string name="Apple_Pay">Apple Pay</string>
+    <string name="Cod">كود التحقق</string>
+    <string name="Unknown">غير معروف</string>
+    <string name="Paid">دفع</string>
+    <string name="Pending">قيد المعالجة</string>
+    <string name="Review">تقييم</string>
+    <string name="Share_your_experience">شارك خبرتك</string>
+    <string name="cancel_time_2minis">وقت الإلغاء: في غضون دقيقتين</string>
+    <string name="time_out_for_order_cancel">مهلة إلغاء الطلب</string>
+    <string name="out_not_accepted">الطلب غير مقبول</string>
+    <string name="status_pending">الحالة: قيد المعالجة</string>
+    <string name="rate_dialogue_msg">أتمنى لك الصحة الجيدة \ n والسعادة \ n \ n قيم المطعم</string>
+    <string name="Rate_App">قيم التطبيق</string>
+    <string name="additional_item">منتج اضافي</string>
+    <string name="total_tax">مجموع الضربية</string>
+    <string name="service_fees">رسوم الخدمة</string>
+    <string name="service_fees_tax">ضربية رسوم الخدمة</string>
+    <string name="Discount">خصم: </string>
+    <string name="Invoice_details">تفاصيل الفاتورة</string>
+    <string name="Apply_Code">تطبيق الكود</string>
+    <string name="Code_here">الكود هنا</string>
+    <string name="pay_now">ادفع الآن</string>
+    <string name="rest_accept_order">تم قبول\nطلبك\nمن المطعم</string>
+    <string name="notes_order_cancel">ملاحظة: لا تستطيع إلغاء طلبك بعد دقيقتين</string>
+    <string name="notes_your_request">ملاحظة: يرجى كتابة التغييرات التي تطلبها هنا على الطبق الخارج</string>
+    <string name="Removal">إزالة</string>
+    <string name="Addition">إضافة</string>
+    <string name="Sizes">الأحجام</string>
+    <string name="Calories">سعرات حرارية</string>
+    <string name="update_Cart">تحديث سلة التسوق</string>
+    <string name="size_is_required">الحجم مطلوب</string>
+    <string name="no_item_cart">لا توجد بيانات من سلة التسوق</string>
+    <string name="Turn_on_location">تشغيل الموقع</string>
+    <string name="ok">موافق</string>
+    <string name="Near_Me">بالقرب مني</string>
+    <string name="Top_Rated">أعلى تقييم</string>
+    <string name="Are_you_sure_you_want_to_Exit">هل أنت متأكد أنك تريد الخروج؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="disconnect">الخصم</string>
+    <string name="Verification_not_received">لم يتم استلام التحقق</string>
+    <string name="Resend_code">إعادة إرسال الكود</string>
+    <string name="Verification_failed">فشل التحقق</string>
+    <string name="smile_dailog">لا تقلق، سوف نتصل\nبالمطعم</string>
+    <string name="order_enjoy">موافق! اذهب واستلم\nطلبك واستمتع!</string>
+    <string name="Apply">تطبيق</string>
+    <string name="Request">طلب</string>
+
+    <string name="Credit_Debit_card">بطاقة الائتمان / الخصم</string>
+    <string name="payment_pay">الدفع مدفوع ..</string>
+    <string name="TotalPrice">السعر الكلي</string>
+    <string name="status">الحالة</string>
+    <string name="Invalid">أدخل رقم هاتف غير صالح</string>
+    <string name="Confirm">يتأكد</string>
+    <string name="no_result_found">لم يتم العثور على نتيجة</string>
+    <string name="Payment_failed">غير قادر على الدفع الآن ، يرجى المحاولة بعد قليل.</string>
+    <string name="lowest">محفظتك إلى أدنى مستوى ..</string>
+    <string name="Click_heare">انقر فوق انقر هنا</string>
+</resources>
